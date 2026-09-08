@@ -8,7 +8,7 @@ An end-to-end fraud analytics project analyzing 6M+ simulated mobile-money trans
 
 Fraud detection in digital financial services requires identifying unusual transaction patterns while minimizing false alerts.
 
-This project analyzes the **PaySim mobile money transaction dataset**, a synthetic dataset based on real mobile-money transaction patterns. The analysis focuses on understanding fraudulent behavior, identifying high-risk transaction segments, and evaluating the effectiveness of an existing transaction-monitoring rule.
+This project analyzes the **PaySim mobile money transaction dataset**, a synthetic dataset based on real mobile-money transaction patterns. The analysis focuses on understanding fraudulent behavior as well as identifying high-risk transaction segments.
 
 ### Business Objective
 
