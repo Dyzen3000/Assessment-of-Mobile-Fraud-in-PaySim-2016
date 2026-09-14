@@ -14,7 +14,6 @@ The analysis aims to answer:
 - Does transaction amount influence fraud risk?
 - When do fraudulent transactions occur most frequently?
 - Are fraud events concentrated around particular accounts or transaction segments?
-- Which patterns could help inform transaction monitoring and fraud-risk controls?
 
 The final output is an **SQL-based fraud analysis pipeline, Python statistical validation, and an interactive Power BI dashboard**.
 
