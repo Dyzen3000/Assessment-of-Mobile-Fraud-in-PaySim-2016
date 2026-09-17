@@ -32,12 +32,6 @@ PaySim is a simulated mobile money transaction dataset containing approximately 
 | `step` | Simulation time step |
 | `type` | Transaction type |
 | `amount` | Transaction amount |
-| `nameOrig` | Originating account |
-| `oldbalanceOrg` | Origin account balance before transaction |
-| `newbalanceOrig` | Origin account balance after transaction |
-| `nameDest` | Destination account |
-| `oldbalanceDest` | Destination balance before transaction |
-| `newbalanceDest` | Destination balance after transaction |
 | `isFraud` | Fraud indicator (0/1) |
 
 `isFlaggedFraud` was excluded from the analytical layer because the project focuses on independently identifying transaction patterns associated with `isFraud`.
