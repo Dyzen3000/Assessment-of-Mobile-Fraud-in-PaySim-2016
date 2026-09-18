@@ -286,8 +286,9 @@ The Power BI dashboard contains three analytical pages.
 - Fraud-risk segmentation by amount and transaction type
 
 <img width="458" height="131" alt="2a" src="https://github.com/user-attachments/assets/68c594aa-1432-4408-b6b4-e225e3a20ff4" />
-<img width="195" height="330" alt="2c" src="https://github.com/user-attachments/assets/fd5285b8-37f2-4257-be9b-890824312567" />
 <img width="459" height="203" alt="2b" src="https://github.com/user-attachments/assets/c168347f-a967-41e5-a384-d3a2735725ff" />
+<img width="195" height="159" alt="2c" src="https://github.com/user-attachments/assets/b23c4fbe-85b0-4e6d-bda1-87b61d99735d" />
+
 
 ### Page 3 — Fraud Percentage Matrix
 
