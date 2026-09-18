@@ -150,6 +150,9 @@ It contains only a relatively small share of all transactions but accounts for a
 
 The Python analysis found substantial differences between fraudulent and non-fraudulent transaction amounts.
 
+<img width="637" height="399" alt="image" src="https://github.com/user-attachments/assets/ece2d48a-4086-4edd-82e7-440e49276a80" />
+
+
 ### Median Transaction Amount
 
 - Non-fraud: **₹74.7K**
