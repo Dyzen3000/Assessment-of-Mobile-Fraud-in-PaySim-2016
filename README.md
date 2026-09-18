@@ -34,8 +34,6 @@ PaySim is a simulated mobile money transaction dataset containing approximately 
 | `amount` | Transaction amount |
 | `isFraud` | Fraud indicator (0/1) |
 
-`isFlaggedFraud` was excluded from the analytical layer because the project focuses on independently identifying transaction patterns associated with `isFraud`.
-
 ### Data Pipeline
 
 ```text
@@ -56,10 +54,6 @@ Power BI Dashboard
 
 The SQL layer created additional analytical variables including:
 
-- Origin balance change
-- Destination balance change
-- Merchant destination flag
-- Origin balance anomaly flag
 - Simulation day
 - Hour of day
 - Transaction amount bands
