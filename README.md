@@ -292,7 +292,6 @@ The Power BI dashboard contains three analytical pages.
 ### Page 3 — Fraud Percentage Matrix
 
 - Fraud rate by day and hour
-- Fraud rate by amount segment
 - Comparison of high-value transaction risk across time
   
 <img width="650" height="333" alt="3a" src="https://github.com/user-attachments/assets/d0e95c04-4f48-498f-ae17-bd9101e5e98d" />
