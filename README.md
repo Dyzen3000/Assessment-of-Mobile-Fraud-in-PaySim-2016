@@ -290,8 +290,7 @@ The Power BI dashboard contains three analytical pages.
 
 <img width="458" height="131" alt="2a" src="https://github.com/user-attachments/assets/68c594aa-1432-4408-b6b4-e225e3a20ff4" />
 <img width="459" height="203" alt="2b" src="https://github.com/user-attachments/assets/c168347f-a967-41e5-a384-d3a2735725ff" />
-<img width="195" height="159" alt="2c" src="https://github.com/user-attachments/assets/b23c4fbe-85b0-4e6d-bda1-87b61d99735d" />
-
+<img width="638" height="239" alt="image" src="https://github.com/user-attachments/assets/da5232f1-3379-4e41-a3b7-1ae7ad2d076d" />
 
 ### Page 3 — Fraud Percentage Matrix
 
