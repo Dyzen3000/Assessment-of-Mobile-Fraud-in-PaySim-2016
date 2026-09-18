@@ -272,6 +272,10 @@ The Power BI dashboard contains three analytical pages.
 - Transaction volume by hour
 - Transaction volume by simulation day
 - Overall transaction and fraud KPIs
+  
+<img width="372" height="266" alt="1a" src="https://github.com/user-attachments/assets/74727440-8053-495c-bde6-f7d0d25c9b29" />
+<img width="845" height="394" alt="1b" src="https://github.com/user-attachments/assets/b8f3cd3a-a21a-412c-9d6d-1e72dbc0e380" />
+<img width="847" height="389" alt="1c" src="https://github.com/user-attachments/assets/2774118a-4d1e-4ef4-98e3-d47222f73194" />
 
 ### Page 2 — Fraud Distribution
 
@@ -281,11 +285,17 @@ The Power BI dashboard contains three analytical pages.
 - Fraud distribution by time period
 - Fraud-risk segmentation by amount and transaction type
 
+<img width="458" height="131" alt="2a" src="https://github.com/user-attachments/assets/68c594aa-1432-4408-b6b4-e225e3a20ff4" />
+<img width="459" height="203" alt="2b" src="https://github.com/user-attachments/assets/c168347f-a967-41e5-a384-d3a2735725ff" />
+<img width="195" height="330" alt="2c" src="https://github.com/user-attachments/assets/fd5285b8-37f2-4257-be9b-890824312567" />
+
 ### Page 3 — Fraud Percentage Matrix
 
 - Fraud rate by day and hour
 - Fraud rate by amount segment
 - Comparison of high-value transaction risk across time
+  
+<img width="650" height="333" alt="3a" src="https://github.com/user-attachments/assets/d0e95c04-4f48-498f-ae17-bd9101e5e98d" />
 
 ---
 
